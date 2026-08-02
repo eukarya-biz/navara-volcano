@@ -1,3 +1,4 @@
+
 # Navara volcano - Volcanic Eruption Physics Demo
 
 A spectacular 3D physics simulation of a volcanic eruption on Mount Fuji using Navara (@navaramap/three). Watch hundreds of colorful balls erupt from the crater, roll down the slopes with realistic physics, and interact with real terrain data.
@@ -14,6 +15,9 @@ npm run dev
 Then open http://localhost:8080 in your browser.
 
 ## What You'll See
+
+https://github.com/user-attachments/assets/cefd2d6d-6573-4cc9-b973-94be380bf291
+
 
 - 🌋 **Volcanic Eruption**: Continuous eruption of colorful balls from Mount Fuji's crater
 - 🎨 **Random Colors**: Each ball has unique random colors and sizes
