@@ -31,8 +31,6 @@ https://github.com/user-attachments/assets/cefd2d6d-6573-4cc9-b973-94be380bf291
 - **Realistic Physics**: Gravity decomposition, friction, rolling resistance, air drag
 - **Terrain Interaction**: Real-time terrain height sampling and smooth slope detection
 - **Elastic Collisions**: Bounces on ground contact with configurable restitution
-- **Visual Animation**: Balls rotate realistically as they roll
-- **Smart Stop Detection**: Only stops on flat ground, keeps rolling on slopes
 
 ### Volcanic Eruption
 - **Continuous Spawning**: Balls erupt at configurable intervals (200ms default)
